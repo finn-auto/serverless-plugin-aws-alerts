@@ -1,8 +1,12 @@
 # Serverless AWS Alerts Plugin
+
   [![NPM version][npm-image]][npm-url]
   [![Build Status][travis-image]][travis-url]
   [![Dependency Status][daviddm-image]][daviddm-url]
   [![codecov][codecov-image]][codecov-url]
+
+> [!NOTE]
+> Forked from  the archived https://github.com/ACloudGuru/serverless-plugin-aws-alerts repository.
 
 A Serverless plugin to easily add CloudWatch alarms to functions
 
